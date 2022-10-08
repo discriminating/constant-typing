@@ -1,0 +1,2 @@
+# constant-typing
+constantly type
