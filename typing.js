@@ -10,4 +10,4 @@ function type(channel, authorization) {
 
 function start(channel) { webpackChunkdiscord_app.push([[0],,e=>Object.keys(e.c).find(t=>(t=e(t)?.default?.getToken?.())&&type(channel, t))]); }
 
-start('channel id');
+start(prompt("Chanel ID:"));
